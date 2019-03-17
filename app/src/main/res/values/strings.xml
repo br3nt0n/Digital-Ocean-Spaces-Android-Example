@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital Ocean Spaces Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_description">Downloaded image</string>
+    <string name="upload">Upload file</string>
+    <string name="download">Download File</string>
+</resources>
