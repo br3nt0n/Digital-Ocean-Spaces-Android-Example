@@ -10,7 +10,7 @@ This sample source code forms part of the Getting Started with Spaces course by 
 ## Getting started
 To run this sample code:
 1. Make sure you have Android Studio and the Android SDK installed
-2. Open the project, and then open the `SpacesFileRepository.swift` file
+2. Open the project, and then open the `SpacesFileRepository.kt` file
 3. Change the `accesskey`, `secretkey` to your Spaces API key (generated (here)[https://cloud.digitalocean.com/account/api/tokens]), `spacename` to the name of your Space on Digital Ocean and `spaceregion` to your Space' region
 
 The project should run, and you'll be able to upload and download the sample image included in the app.
